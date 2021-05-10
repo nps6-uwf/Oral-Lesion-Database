@@ -9,7 +9,7 @@ This is a working database that I created from scratch for my Machine Learning f
   <tr><td>Normal Tongue Sampled</td> <td>Images of human tongues scraped from the Internet.</td><td>86</td> <td>86</td></tr>
   <tr><td>Normal Tongue_normalized</td> <td>Cropped and scaled images from the Normal Tongue Sampled directory.</td><td>118</td> <td>118</td></tr>
   <tr><td>Normal_Lips</td> <td>Images of human lips scraped from the Internet.</td><td>65</td> <td>150</td></tr>
-  <tr><td>Normal_lips_normalized</td> <td>Cropped and scaled images from the Normal_lips directory.</td><td>124</td> <td>234</td></tr>
+  <tr><td>Normal_lips_normalized</td> <td>Cropped and scaled images from the Normal_lips directory.</td><td>124</td> <td>233</td></tr>
   
   
   <tr><td>Squamous Cell Carcinoma</td> <td>Images of Squamous cell carcinoma scraped from the Internet.</td><td>74</td> <td>124</td></tr>
